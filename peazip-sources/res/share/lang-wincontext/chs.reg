@@ -7,10 +7,10 @@ Windows Registry Editor Version 5.00
 @="添加到归档文件并分割"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separate7z]
-@="打包成 .7z 归档文件"
+@="打包成 .7z 归档"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separate7zfastest]
-@="打包成 .7z 归档文件，最快"
+@="打包成 .7z 归档文件最快"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separate7znormal]
 @="打包成 .7z 归档文件，普通"

@@ -1,38 +1,76 @@
-Windows Registry Editor Version 5.00਍ഀഀ
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separate]਍䀀㴀∀ﬀꁭげ剒损蝨≎ഀഀ
-਍嬀䠀䬀䔀夀开䰀伀䌀䄀䰀开䴀䄀䌀䠀䤀一䔀尀匀伀䘀吀圀䄀刀䔀尀䴀椀挀爀漀猀漀昀琀尀圀椀渀搀漀眀猀尀䌀甀爀爀攀渀琀嘀攀爀猀椀漀渀尀䔀砀瀀氀漀爀攀爀尀䌀漀洀洀愀渀搀匀琀漀爀攀尀猀栀攀氀氀尀倀攀愀娀椀瀀⸀愀搀搀㈀猀攀瀀愀爀愀琀攀猀椀渀最氀攀崀ഀഀ
-@="添加到归档文件并分割"਍ഀഀ
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separate7z]਍䀀㴀∀匀բၓ⁢⸀㜀稀 刀损蝨≎ഀഀ
-਍嬀䠀䬀䔀夀开䰀伀䌀䄀䰀开䴀䄀䌀䠀䤀一䔀尀匀伀䘀吀圀䄀刀䔀尀䴀椀挀爀漀猀漀昀琀尀圀椀渀搀漀眀猀尀䌀甀爀爀攀渀琀嘀攀爀猀椀漀渀尀䔀砀瀀氀漀爀攀爀尀䌀漀洀洀愀渀搀匀琀漀爀攀尀猀栀攀氀氀尀倀攀愀娀椀瀀⸀愀搀搀㈀猀攀瀀愀爀愀琀攀㜀稀昀愀猀琀攀猀琀崀ഀഀ
-@="打包成 .7z 归档文件，最快"਍ഀഀ
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separate7znormal]਍䀀㴀∀匀բၓ⁢⸀㜀稀 刀损蝨౎滿ᩦ⊐ഀഀ
-਍嬀䠀䬀䔀夀开䰀伀䌀䄀䰀开䴀䄀䌀䠀䤀一䔀尀匀伀䘀吀圀䄀刀䔀尀䴀椀挀爀漀猀漀昀琀尀圀椀渀搀漀眀猀尀䌀甀爀爀攀渀琀嘀攀爀猀椀漀渀尀䔀砀瀀氀漀爀攀爀尀䌀漀洀洀愀渀搀匀琀漀爀攀尀猀栀攀氀氀尀倀攀愀娀椀瀀⸀愀搀搀㈀猀攀瀀愀爀愀琀攀㜀稀甀氀琀爀愀崀ഀഀ
-@="打包成 .7z 归档文件，超强"਍ഀഀ
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separate7zencrypt]਍䀀㴀∀ꀀ왒࡛㟿稀ऀ⋿ഀഀ
-਍嬀䠀䬀䔀夀开䰀伀䌀䄀䰀开䴀䄀䌀䠀䤀一䔀尀匀伀䘀吀圀䄀刀䔀尀䴀椀挀爀漀猀漀昀琀尀圀椀渀搀漀眀猀尀䌀甀爀爀攀渀琀嘀攀爀猀椀漀渀尀䔀砀瀀氀漀爀攀爀尀䌀漀洀洀愀渀搀匀琀漀爀攀尀猀栀攀氀氀尀倀攀愀娀椀瀀⸀愀搀搀㈀猀攀瀀愀爀愀琀攀稀椀瀀崀ഀഀ
-@="打包成 .zip 归档文件"਍ഀഀ
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separatezipfastest]਍䀀㴀∀匀բၓ⁢⸀稀椀瀀 刀损蝨౎ÿ≟ഀഀ
-਍嬀䠀䬀䔀夀开䰀伀䌀䄀䰀开䴀䄀䌀䠀䤀一䔀尀匀伀䘀吀圀䄀刀䔀尀䴀椀挀爀漀猀漀昀琀尀圀椀渀搀漀眀猀尀䌀甀爀爀攀渀琀嘀攀爀猀椀漀渀尀䔀砀瀀氀漀爀攀爀尀䌀漀洀洀愀渀搀匀琀漀爀攀尀猀栀攀氀氀尀倀攀愀娀椀瀀⸀愀搀搀㈀猀攀瀀愀爀愀琀攀稀椀瀀渀漀爀洀愀氀崀ഀഀ
-@="打包成 .zip 归档文件，普通"਍ഀഀ
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separatezipultra]਍䀀㴀∀匀բၓ⁢⸀稀椀瀀 刀损蝨౎藿㪍≟ഀഀ
-਍嬀䠀䬀䔀夀开䰀伀䌀䄀䰀开䴀䄀䌀䠀䤀一䔀尀匀伀䘀吀圀䄀刀䔀尀䴀椀挀爀漀猀漀昀琀尀圀椀渀搀漀眀猀尀䌀甀爀爀攀渀琀嘀攀爀猀椀漀渀尀䔀砀瀀氀漀爀攀爀尀䌀漀洀洀愀渀搀匀琀漀爀攀尀猀栀攀氀氀尀倀攀愀娀椀瀀⸀愀搀搀㈀猀攀瀀愀爀愀琀攀稀椀瀀洀愀椀氀崀ഀഀ
-@="打包成 .zip 归档文件并发电邮"਍ഀഀ
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separatesfx]਍䀀㴀∀匀բၓ킁홣剓损蝨≎ഀഀ
-਍嬀䠀䬀䔀夀开䰀伀䌀䄀䰀开䴀䄀䌀䠀䤀一䔀尀匀伀䘀吀圀䄀刀䔀尀䴀椀挀爀漀猀漀昀琀尀圀椀渀搀漀眀猀尀䌀甀爀爀攀渀琀嘀攀爀猀椀漀渀尀䔀砀瀀氀漀爀攀爀尀䌀漀洀洀愀渀搀匀琀漀爀攀尀猀栀攀氀氀尀倀攀愀娀椀瀀⸀攀砀琀㈀戀爀漀眀猀攀愀猀愀爀挀栀椀瘀攀崀ഀഀ
-@="当作归档文件打开"਍ഀഀ
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.ext2browsepath]਍䀀㴀∀⠀⁵倀攀愀娀椀瀀 伀졭撉ѫ≙ഀഀ
-਍嬀䠀䬀䔀夀开䰀伀䌀䄀䰀开䴀䄀䌀䠀䤀一䔀尀匀伀䘀吀圀䄀刀䔀尀䴀椀挀爀漀猀漀昀琀尀圀椀渀搀漀眀猀尀䌀甀爀爀攀渀琀嘀攀爀猀椀漀渀尀䔀砀瀀氀漀爀攀爀尀䌀漀洀洀愀渀搀匀琀漀爀攀尀猀栀攀氀氀尀倀攀愀娀椀瀀⸀愀搀搀㈀猀瀀氀椀琀崀ഀഀ
-@="分割文件"਍ഀഀ
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2convert]਍䀀㴀∀氀抏≣ഀഀ
-਍嬀䠀䬀䔀夀开䰀伀䌀䄀䰀开䴀䄀䌀䠀䤀一䔀尀匀伀䘀吀圀䄀刀䔀尀䴀椀挀爀漀猀漀昀琀尀圀椀渀搀漀眀猀尀䌀甀爀爀攀渀琀嘀攀爀猀椀漀渀尀䔀砀瀀氀漀爀攀爀尀䌀漀洀洀愀渀搀匀琀漀爀攀尀猀栀攀氀氀尀倀攀愀娀椀瀀⸀愀搀搀㈀眀椀瀀攀崀ഀഀ
-@="安全删除"਍ഀഀ
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.ext2here]਍䀀㴀∀㄀ぜ큗홣≓ഀഀ
-਍嬀䠀䬀䔀夀开䰀伀䌀䄀䰀开䴀䄀䌀䠀䤀一䔀尀匀伀䘀吀圀䄀刀䔀尀䴀椀挀爀漀猀漀昀琀尀圀椀渀搀漀眀猀尀䌀甀爀爀攀渀琀嘀攀爀猀椀漀渀尀䔀砀瀀氀漀爀攀爀尀䌀漀洀洀愀渀搀匀琀漀爀攀尀猀栀攀氀氀尀倀攀愀娀椀瀀⸀攀砀琀㈀猀洀愀爀琀崀ഀഀ
-@="智能提取"਍ഀഀ
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.ext2folder]਍䀀㴀∀퀀홣こ끒蝥㥎≙ഀഀ
-਍嬀䠀䬀䔀夀开䰀伀䌀䄀䰀开䴀䄀䌀䠀䤀一䔀尀匀伀䘀吀圀䄀刀䔀尀䴀椀挀爀漀猀漀昀琀尀圀椀渀搀漀眀猀尀䌀甀爀爀攀渀琀嘀攀爀猀椀漀渀尀䔀砀瀀氀漀爀攀爀尀䌀漀洀洀愀渀搀匀琀漀爀攀尀猀栀攀氀氀尀倀攀愀娀椀瀀⸀攀砀琀㈀洀愀椀渀崀ഀഀ
-@="提取…"਍ഀഀ
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.ext2a]਍䀀㴀∀퀀홣剓损蝨≎ഀഀ
-਍嬀䠀䬀䔀夀开䰀伀䌀䄀䰀开䴀䄀䌀䠀䤀一䔀尀匀伀䘀吀圀䄀刀䔀尀䴀椀挀爀漀猀漀昀琀尀圀椀渀搀漀眀猀尀䌀甀爀爀攀渀琀嘀攀爀猀椀漀渀尀䔀砀瀀氀漀爀攀爀尀䌀漀洀洀愀渀搀匀琀漀爀攀尀猀栀攀氀氀尀倀攀愀娀椀瀀⸀攀砀琀㈀琀攀猀琀崀ഀഀ
-@="测试归档文件"਍ഀഀ
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.analyze]਍䀀㴀∀䌀刀䌀Ā젰౔⅞豨쪚蝓獶睝≑ഀഀ
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separate]
+@="添加到归档文件"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separatesingle]
+@="添加到归档文件并分割"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separate7z]
+@="打包成 .7z 归档文件"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separate7zfastest]
+@="打包成 .7z 归档文件，最快"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separate7znormal]
+@="打包成 .7z 归档文件，普通"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separate7zultra]
+@="打包成 .7z 归档文件，超强"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separate7zencrypt]
+@="加密（7z）"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separatezip]
+@="打包成 .zip 归档文件"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separatezipfastest]
+@="打包成 .zip 归档文件，最快"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separatezipnormal]
+@="打包成 .zip 归档文件，普通"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separatezipultra]
+@="打包成 .zip 归档文件，超强"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separatezipmail]
+@="打包成 .zip 归档文件并发电邮"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separatesfx]
+@="打包成自提取归档文件"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.ext2browseasarchive]
+@="当作归档文件打开"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.ext2browsepath]
+@="用 PeaZip 浏览此处"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2split]
+@="分割文件"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2convert]
+@="转换"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2wipe]
+@="安全删除"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.ext2here]
+@="就地提取"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.ext2smart]
+@="智能提取"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.ext2folder]
+@="提取到新文件夹"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.ext2main]
+@="提取…"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.ext2a]
+@="提取归档文件"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.ext2test]
+@="测试归档文件"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.analyze]
+@="CRC、哈希校验及文件相关工具"

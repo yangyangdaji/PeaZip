@@ -13,7 +13,7 @@ Windows Registry Editor Version 5.00
 @="打包成 .7z 归档文件，最快"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separate7znormal]
-@="打包成 .7z 归档文件普通"
+@="打包成 .7z 归档普通"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separate7zultra]
 @="打包成 .7z 归档文件，超强"

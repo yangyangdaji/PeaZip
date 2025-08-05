@@ -1,13 +1,13 @@
 Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separate] 
-@="L‰gg till i arkiv"
+@="L√§gg till i arkiv"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separatesingle]
-@="L‰gg i separata arkiv"
+@="L√§gg i separata arkiv"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separate7z]
-@="L‰gg till i 7Z-arkiv"
+@="L√§gg till i 7Z-arkiv"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separate7zfastest]
 @="Arkivera som 7Z, snabbast"
@@ -22,7 +22,7 @@ Windows Registry Editor Version 5.00
 @="Kryptera (7Z)"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separatezip]
-@="L‰gg till i ZIP-arkiv"
+@="L√§gg till i ZIP-arkiv"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separatezipfastest]
 @="Arkivera som ZIP, snabbast"
@@ -37,31 +37,31 @@ Windows Registry Editor Version 5.00
 @="Arkivera som ZIP och skicka som e-post"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separatesfx]
-@="L‰gg till i sj‰lvuppackande arkiv"
+@="L√§gg till i sj√§lvuppackande arkiv"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.ext2browseasarchive]
-@="÷ppna som arkiv"
+@="√ñppna som arkiv"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.ext2browsepath]
-@="Utforska sˆkv‰gen med PeaZip"
+@="Utforska s√∂kv√§gen med PeaZip"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2split]
 @="Dela filen"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2convert] 
-@="Konvertera"
+@="Konverter"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2wipe]
-@="S‰ker filborttagning"
+@="S√§ker filborttagning"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.ext2here]
-@="Packa upp h‰r"
+@="Packa upp h√§r"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.ext2smart]
-@="Packa upp h‰r (smart)"
+@="Packa upp h√§r (smart)"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.ext2folder]
-@="Packa upp h‰r (i ny mapp)"
+@="Packa upp h√§r (i ny mapp)"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.ext2main]
 @="Packa upp.."

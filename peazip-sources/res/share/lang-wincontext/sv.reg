@@ -34,7 +34,7 @@ Windows Registry Editor Version 5.00
 @="Arkivera som ZIP, ultra"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separatezipmail]
-@="Arkivera som ZIP och skicka som e-post"
+@="Avera som ZIP och skicka som e-post"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2separatesfx]
 @="Lägg till i självuppackande arkiv"
